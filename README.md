@@ -2,7 +2,7 @@
 This repository is about all my journey to learn about data engineering
 
 ## Why created this repo?
-I want to track the progress of my learning in the data engineering field. In this project, I'll probably put my result of learning something here whether it can be from online courses or other resources. I'll also put something that I think it's important for my future.
+I want to track the progress of my learning in the data engineering field. In this project, I'll probably put my result of learning something here whether it can be from online courses or other resources. I'll also put something that I think it's important for my future in data engineering
 
 ## Online Courses
 Here I put some courses related to data engineering that I've taken and will be done in the future
@@ -26,4 +26,4 @@ I'll create my learning path based on some resources that I put below. So, I rea
 3. [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
 4. [Data Engineering Roadmap](https://github.com/boringPpl/data-engineer-roadmap)
 
-because of making the awesome data engineering resources/learning path.
+because of making the awesome data engineering resources/learning path
