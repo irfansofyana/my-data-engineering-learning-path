@@ -2,7 +2,7 @@
 This repository is about all my journey to learn about data engineering
 
 ## Why created this repo?
-I want to track the progress of my learning in the data engineering field. In this project, I'll probably put my result of learning something here whether it can be from online courses or other resources. I'll also put something that I think it's important for my future in data engineering
+I want to track the progress of my learning in the data engineering field. In this project, I'll probably put my result of learning something whether it can be from online courses or other resources. I'll also put something that I think it's important for my future in the data engineering
 
 ## Online Courses
 Here I put some courses related to data engineering that I've taken and will be done in the future
