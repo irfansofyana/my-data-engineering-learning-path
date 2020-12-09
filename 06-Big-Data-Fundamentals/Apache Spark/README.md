@@ -6,6 +6,7 @@ Apache spark is fast and general engine for large-scale data processing. Apache 
 ## What is the high level architecture of Apache Spark?
 The high level architecture of spark can be seen in the following figure
 ![high-level](./img/spark-01.JPG)
+
 To use Spark, anyone can simply write the simple script using Python or Scala (just example) to describe how to transform and process a huge amount of data and Spark will figure out how to distribute that work across an entire cluster of the computers. Cluster manager is needed to manage the distributed machine. This cluster manager can be Hadoop or the spark itself has it's own cluster manager. In individual machine there are executor that has it's own cache and task that is trying to operate on the data. Everything is connected. The driver program sends out commands to the cluster manager and also directly to the executors when needed. And the executors are talking to each other and synchronizing amongst themselves. And of course the cluster manager is talking to all of those executor processes as well, trying to orchestrate what gets run, where, and then call lighting those results back together to give you your final result when it's all done.
 
 ## Why Apache Spark is so popular?
